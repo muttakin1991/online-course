@@ -1,0 +1,32 @@
+.main-div{
+    float: left;
+}
+.main-div img{
+    margin-top: 3px;
+    width: 250px;
+    height: 150px;
+}
+.sub-div{
+    background-color: lightgray;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 2px solid red;
+    border-radius: 5px;
+    width: 365px;
+    height: 279px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+.button{
+    background-color: lightgreen;
+    border: 1px solid goldenrod;
+    border-radius: 5px;
+    padding: 5px;
+}
+.button:hover{
+    cursor: pointer;
+    padding: 10px;
+    width: 150px;
+    background-color: red;
+    color: white;
+}

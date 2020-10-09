@@ -1,0 +1,13 @@
+.cart-main-div{
+    text-align: center;
+}
+.cart-sub-div{
+    text-align: center;
+    border: 3px solid greenyellow;
+    width: 30%;
+    margin-left: 532px;
+    margin-bottom: 29px;
+    background-color: lightpink;
+    border-radius: 10px;
+    color: black;
+}
